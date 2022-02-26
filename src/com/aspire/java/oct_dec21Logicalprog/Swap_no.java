@@ -13,8 +13,6 @@ public class Swap_no
 		b=c;
 		
 		System.out.println("value of a = "+a);
-		System.out.println("value of b = "+b);
-		
-		
+		System.out.println("value of b = "+b);	
 	}
 }
